@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Représente un département dans une entreprise.
+ * Représente un département dans une entreprise avec le nom du département et la liste des employés du département.
  */
 public class Department {
 
